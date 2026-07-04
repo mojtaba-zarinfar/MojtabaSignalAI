@@ -9,7 +9,7 @@ CHAT_ID = os.getenv("CHAT_ID")
 # ==========================
 # Market
 # ==========================
-EXCHANGE = "binance"
+EXCHANGE = "auto"
 
 SYMBOLS = [
     "BTC/USDT",
